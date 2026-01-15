@@ -4,7 +4,7 @@ public class AgeChecker {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Enter your age: ");
+        System.out.print("Enter yourage: ");
         int age = scanner.nextInt();
 
         if (age >= 18) {
